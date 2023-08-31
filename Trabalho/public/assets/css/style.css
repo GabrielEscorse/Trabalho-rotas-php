@@ -1702,10 +1702,6 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit] {
-  position: absolute;
-  top: -1px;
-  right: -1px;
-  bottom: -1px;
   border: 0;
   background: none;
   font-size: 16px;
